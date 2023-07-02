@@ -120,4 +120,17 @@ public:
 int main()
 {
 	BinaryTree obj;
+	while (true)
+	{
+		cout << "Menu" << endl;
+		cout << "1. Implement insert opration" << endl;
+		cout << "2. Implement inorder traversal" << endl;
+		cout << "3. Implement preorder traversal" << endl;
+		cout << "4. Implement postorder traversal" << endl;
+		cout << "5. Exit" << endl;
+		cout << "\nEnter your choice (1-5) : ";
+
+
+	}
+
 }
